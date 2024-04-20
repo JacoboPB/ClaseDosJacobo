@@ -3,5 +3,6 @@
 ### Tercer titulo
 
 Creación de repositorios y el manejo de MarkDown
-- Version uno.
-- version dos.
+- Versión uno.
+- versión dos.
+Autor Jacobo Patiño
