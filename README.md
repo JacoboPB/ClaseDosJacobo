@@ -30,5 +30,12 @@ def hola_mundo():
 | Texto 1      | Texto 2      | Texto 3      |
 | Texto 4      | Texto 5      | Texto 6      |
 
+## Imagen
+
+<p align="center">
+<img src="Logos/Logo_warriors.png" height="100">
+</p>
+
+
 ## Referencias
 [Google](https://www.google.com)
