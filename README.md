@@ -33,7 +33,7 @@ def hola_mundo():
 ## Imagen
 
 <p align="center">
-<img src="Logos/Logo_warriors.png" height="100">
+<img src="Logos/Logo_warriors.png" height="200">
 </p>
 
 
